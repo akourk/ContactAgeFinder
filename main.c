@@ -1,6 +1,6 @@
 // Author       :   Alex Kourkoumelis
 // Date         :   2/17/2018
-// Title        :   Contact Age Finder
+// Title        :   ContactAgeFinder
 // Description  :   Reads a .txt file in the format FNAME LNAME 00-00-0000
 //              :   Stores the information into 2 structs, date, and contact
 //              :   Then compares the current date to the date of each contact
